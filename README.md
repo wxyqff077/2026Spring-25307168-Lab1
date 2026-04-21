@@ -9,7 +9,7 @@
 
 ## 效果预览
 
-<img src="./screenshots/devices/email.gif" width="300"> 
+<img src="./screenshots/devices/email.gif" width="300">
 
 ## 使用说明
 
